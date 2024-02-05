@@ -17,9 +17,6 @@ module.exports = (config) => {
   config.addCollection('pagedPosts', require('./lib/collections/pagedPosts'));
   config.addCollection('pagedPostsByTag', require('./lib/collections/pagedPostsByTag'));
 
-  config.addPlugin(EleventyHtmlBasePlugin);
-
-
   return {
     dir: {
       input: 'src',
