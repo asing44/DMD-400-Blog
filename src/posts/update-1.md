@@ -42,7 +42,7 @@ Like any other web development or design project, this project is iterative. It'
     Apr. 13th → Apr. 21st
     
 *February plan*
-![February schedule plan](/assets/img/February-plan.png)
+![February schedule plan](./assets/img/February-plan.png)
 
 *March plan*
 ![March schedule plan](/assets/img/March-plan.png)
