@@ -17,6 +17,15 @@ module.exports = (config) => {
   config.addCollection('pagedPosts', require('./lib/collections/pagedPosts'));
   config.addCollection('pagedPostsByTag', require('./lib/collections/pagedPostsByTag'));
 
+  config.setBrowserSyncConfig({
+    open: true,
+    online: true,
+    // Set the base URL for absolute paths
+    server: {
+      baseDir: "dist",
+    },
+  });
+
   return {
     dir: {
       input: 'src',

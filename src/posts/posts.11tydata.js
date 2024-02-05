@@ -1,6 +1,6 @@
 module.exports = {
   layout: 'post',
-  title: 'Untitled',
+  title: (data) => `${data.title}`,
   eleventyComputed: {
     permalink: (data) => `${data.page.fileSlug}/index.html`,
     thumb: (data) => {
@@ -12,6 +12,6 @@ module.exports = {
       } else {
         return false;
       }
-    }
+    },
   }
 };

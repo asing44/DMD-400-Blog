@@ -69,4 +69,4 @@ The project is progressing well, and I am excited to continue with the plan I ha
 
 I'm particularly thrilled about using a new software called [Rive](https://rive.app/) for web animation. Rive is dedicated to simplifying the process of complex web animations, which was quite tedious in the past. If you are unfamiliar with it, [here’s](https://www.linkedin.com/pulse/how-get-started-using-bodymovin-lottie-after-effects-aaron-schurman/) a helpful article that explains it well and quickly.
 
-If you have any suggestions, comments, or questions, please reach out to me via email or phone. I'll include both at the end of these blog updates. Best of luck with your own projects!
+If you have any suggestions, comments, or questions, please reach out to me via email or phone. I'll include both at the end of these blog updates. Best of luck with your own projects!****
