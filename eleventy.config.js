@@ -17,11 +17,15 @@ module.exports = (config) => {
   config.addCollection('pagedPosts', require('./lib/collections/pagedPosts'));
   config.addCollection('pagedPostsByTag', require('./lib/collections/pagedPostsByTag'));
 
+  config.addPlugin(EleventyHtmlBasePlugin);
+
+
   return {
     dir: {
       input: 'src',
       output: 'dist'
     },
+    pathPrefix: "/DMD-400-Blog/",
     templateFormats: ['md', 'njk', 'html'],
     dataTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk'
