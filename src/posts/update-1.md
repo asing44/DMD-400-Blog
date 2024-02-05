@@ -42,13 +42,13 @@ Like any other web development or design project, this project is iterative. It'
     Apr. 13th → Apr. 21st
     
 *February plan*
-![February schedule plan](./assets/img/February-plan.png)
+![February schedule plan](/DMD-400-Blog/assets/img/February-plan.png)
 
 *March plan*
-![March schedule plan](/assets/img/March-plan.png)
+![March schedule plan](/DMD-400-Blog/assets/img/March-plan.png)
 
 *April plan*
-![April schedule plan](/assets/img/April-plan.png)
+![April schedule plan](/DMD-400-Blog/assets/img/April-plan.png)
 
 # Production So Far…
 
@@ -58,10 +58,10 @@ Up until now, I have:
 - Began the *Define* stage of my design process
 
 *Opening page for the Define phase*
-![Define page setup in Notion](/assets/img/Define-page.png)
+![Define page setup in Notion](/DMD-400-Blog/assets/img/Define-page.png)
 
 *Completing necessary sub-steps in the Define phase*
-![Sub-steps in the Define phase](/assets/img/Define-subtasks.png)
+![Sub-steps in the Define phase](/DMD-400-Blog/assets/img/Define-subtasks.png)
 
 # Where Things Are At
 
