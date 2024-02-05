@@ -38,3 +38,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+          #publish_branch is the branch in the repository.
+          #this is where you need to point GitHub pages
+          publish_branch: public
