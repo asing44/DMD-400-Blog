@@ -1,4 +1,5 @@
 module.exports = (config) => {
+  config.addPassthroughCopy({'src/assets': 'assets'});
   config.addPassthroughCopy('src/assets/img/**/*');
   config.addPassthroughCopy({ 'src/posts/img/**/*': 'assets/img/' });
 
@@ -22,7 +23,7 @@ module.exports = (config) => {
     online: true,
     // Set the base URL for absolute paths
     server: {
-      baseDir: "dist",
+      baseDir: "dist/DMD-400-Blog"
     },
   });
 

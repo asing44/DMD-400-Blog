@@ -8,10 +8,10 @@ module.exports = {
         if (data.thumb.search(/^https?:\/\//) !== -1) {
           return data.thumb;
         }
-        return `assets/img/${data.thumb}`;
+        return `/assets/img/${data.thumb}`;
       } else {
         return false;
       }
     },
-  }
+  },
 };
