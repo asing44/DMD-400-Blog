@@ -32,9 +32,9 @@ module.exports = (config) => {
       input: 'src',
       output: 'dist'
     },
-    pathPrefix: "/DMD-400-Blog/",
     templateFormats: ['md', 'njk', 'html'],
     dataTemplateEngine: 'njk',
-    markdownTemplateEngine: 'njk'
+    markdownTemplateEngine: 'njk',
+    pathPrefix: "/DMD-400-Blog/"
   };
 };
