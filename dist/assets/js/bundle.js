@@ -52,6 +52,30 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 }, false);
 
+/* 
+Play Rive animations
+*/
+
+const layout = new rive.Layout({
+  fit: rive.Fit.FitWidth, // Change to: rive.Fit.Contain, or Cover
+  alignment: rive.Alignment.Center,
+});
+
+const riveCanvas = document.getElementById("rive-canvas")
+
+const riveInstance = new rive.Rive({
+  // Load a local riv `clean_the_car.riv` or upload your own!
+  src: "/DMD-400-Blog/assets/rive/rive-vibe.riv",
+  // Be sure to specify the correct state machine (or animation) name
+  stateMachines: "State Machine 1", // Name of the State Machine to play
+  canvas: riveCanvas,
+  layout: layout, // This is optional. Provides additional layout control.
+  autoplay: true,
+  onLoad: () => {
+    // Prevent a blurry canvas by using the device pixel ratio
+    riveInstance.resizeDrawingSurfaceToCanvas();
+  }
+});
 /*
 Search for posts with keyword given in the parameter "q"
 Only run on search page ("/search/")

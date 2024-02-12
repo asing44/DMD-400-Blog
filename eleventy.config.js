@@ -1,7 +1,8 @@
 module.exports = (config) => {
-  config.addPassthroughCopy({'src/assets/js': 'assets/js'});
-  config.addPassthroughCopy('src/assets/img/**/*');
-  config.addPassthroughCopy({ 'src/posts/img/**/*': 'assets/img/' });
+  config.addPassthroughCopy({'src/assets/js/': 'assets/js/'});
+  // config.addPassthroughCopy('src/assets/img/');
+  // config.addPassthroughCopy({ 'src/posts/img/**/*': 'assets/img/' });
+  config.addPassthroughCopy({ 'src/assets/rive/': 'assets/rive/' });
 
   config.addWatchTarget("src/assets/js/");
 

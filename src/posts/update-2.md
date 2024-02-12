@@ -43,7 +43,11 @@ With the Ideation phase underway, the subsequent phases are eagerly anticipated.
 
 Throughout this process, I've been excited to explore and implement new tools that streamline the creation of complex web animations. In particular, I've been utilizing **[Rive](https://rive.app/)** to bring dynamic and interactive elements to the website. This tool has significantly simplified the animation process, allowing for the creation of intricate animations that enhance storytelling and user interaction.
 
+<div><canvas style="min-height: 400px; max-width: 400px;"id="rive-canvas"></canvas></div>
+<span><cite>Made by</cite></span>
+&nbsp;
 
+**[gergana](https://rive.app/community/7508-14445-rive-vibe/)**
 
 ## Stay Connected
 
