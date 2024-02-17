@@ -1,6 +1,6 @@
 ---
 title: "Project Update 2: Navigating Through Empathy and Content Creation"
-date: 2024-02-10T17:51
+date: 2024-02-10T11:41
 thumb: "Thumbnail-2.png"
 tags: update
 ---
