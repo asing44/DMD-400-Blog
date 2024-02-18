@@ -5,7 +5,12 @@ thumb: "Thumbnail-3.png"
 tags: update
 ---
 
-I have wrapped up the foundation of my research for this project and am beginning to ideate on the content to be included. The resulting resarch document can be seen attached below. This ideation phase involves brainstorming different ideas for content and is the precursor to the **Content** phase which can be understood as the convergence of these brainstorming ideas generated in this **Ideation** phase and development into fully fledged assets.
+I have wrapped up the foundation of my research for this project and am beginning to ideate on the content to be included. The resulting resarch document can be seen attached below. This **Ideation** phase involves brainstorming different ideas for content and is the precursor to the **Content** phase which can be understood as the convergence of these brainstorming ideas generated in this **Ideation** phase and development into fully fledged assets.
+![Inspiring sites for project](/DMD-400-Blog/assets/img/pdf__project-brief_Page_1.png)
+<cite>Project brief document page 1</cite>
+
+![Inspiring sites for project](/DMD-400-Blog/assets/img/pdf__project-brief_Page_2.png)
+<cite>Project brief document page 2</cite>
 
 # Project Timeline
 
@@ -23,31 +28,26 @@ Here is the project timeline again:
     
 6. **Test and Review**<br>Apr. 15th → Apr. 21st
 
-## A Deep Dive into Empathy
+## A Turn To Content
 
-The **Empathize** phase, started on February 8th, has been productive. In this stage, my primary goal was to fully understand the users' needs, experiences, and motivations as to prepare the main direciton for ideating content. To achieve this, I used various research methods, including user research, user personas, user journey mapping, and empathy mapping. These efforts have provided valuable insights into the potential users' desires and challenges, shaping the project's direction to ensure it meets their expectations and solves relevant problems.
-![User journey map](/DMD-400-Blog/assets/img/User-persona__1.png)
-<cite>User journey map 1</cite>
+The **Ideation** phase marks a turning point for the project. Research has been completed and now it is time to make use of that research by creating content. The first step of this process will involve creating a *content inventory* of what needs to be created for the site.
 
-## Pivoting to Ideation with Fresh Insights
+As of now, I am expecting to create multiple Adobe Illustrator scenes which will visualize the *SmartGarden* product and enhance the user experience. I am planning on using **[Rive](https://rive.app/)** to complete these animations.
 
-Following the Empathy phase's groundwork, I've now moved into the **Ideation** phase, which is scheduled from February 13th to February 20th. This period is dedicated to brainstorming and conceptualizing creative solutions that address the insights and needs uncovered during the Empathize phase. My focus here is on generating innovative ideas for features, storytelling elements, and user engagement strategies that will make the website not only informative but also compelling and immersive.
-![Inspiring sites for project](/DMD-400-Blog/assets/img/Ideation.png)
-<cite>Inspiring sites for project</cite>
+## Generating Ideas
+### Diverging
+After creating a preliminary content inventory, I will then begin a series of brainstorming sessions to create several of the necessary pieces required for the **Content** creation phase of the project. These include:
+- Mood board
+- Storyboards
+- Asset sketches
 
-## Looking Forward to Content Creation and Development
+### Converging 
+After finishing these separate pieces, a general review of the draft materials will occur. The selection and evaluation of the generated materials will converge ideas back toward a more focused harmony. These passed materials will collect and settle in a deliverable I am simply referring to as the *Ideation Document*.
 
-With the Ideation phase underway, the subsequent phases are eagerly anticipated. The **Content** creation phase, now scheduled from February 21st to March 10th, will focus on developing the actual material that will populate the website. Following this, the **Develop** phase, from February 29th to April 14th, will involve the technical realization of the website, turning ideas and content into a functional and engaging online presence.
+## Project Wows and Woes
+I am feeling a healthy amount of pressure to get moving toward making content for my project. I am eager to start the content creation process. Creating content is always a fun step in any project but I have learned from previous attempts with projects of this scale that it can quickly become unpleasant if the required research and planning bas not been completed. 
 
-## Engaging with New Tools and Technologies
-
-Throughout this process, I've been excited to explore and implement new tools that streamline the creation of complex web animations. In particular, I've been utilizing **[Rive](https://rive.app/)** to bring dynamic and interactive elements to the website. This tool has significantly simplified the animation process, allowing for the creation of intricate animations that enhance storytelling and user interaction.
-
-<div><canvas style="min-height: 400px; max-width: 400px;"id="rive-canvas"></canvas></div>
-<span><cite>Made by</cite></span>
-&nbsp;
-
-**[gergana](https://rive.app/community/7508-14445-rive-vibe/)**
+Knowing this, I wanted to ensure my groudwork research was sound before continuing on with the creation of content. I feel ready to make this step into creating (draft) content and am excited to share this exciting new turn for this project with you all.
 
 ## Stay Connected
 
