@@ -81,14 +81,21 @@ I have started creating real design assets too. One of these is the logo for the
     <figcaption><small>Logo sketching</small></figcaption>
 </figure>
 
-<figure>
+<figure style="flex-basis: 200%">
 
-![Mobile wireframe](/DMD-400-Blog/assets/img/mobile-wireframe--v2.png)
-    <figcaption><small>Version 2 wireframe for mobile</small></figcaption>
+![Mobile wireframe](/DMD-400-Blog/assets/img/logo--v1.svg)
+    <figcaption><small>Logo version 1</small></figcaption>
 </figure>
 
 </div>
 
+# This Week's Plan
+
+As mentioned before, I plan on continuing designing this week. My goal is to create the design style guide and content requirements document.
+
+Once these are complete, I will be able to create a high-fidelity prototype of the website, on which all of the planned development will reference. While this is ongoing, I also need to simultaneously create the Rive animations for certain parts of the site.
+
+This is a lot to get done in not a lot of time remaining! However, I am confident that I am capable of delivering a quality product on time as long as I move forward decisevly and continualy.
 
 
 ## Stay Connected
