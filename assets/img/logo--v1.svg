@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390.63 131">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        font-size: 36.65px;
+      }
+
+      .cls-2 {
+        fill: #5a9153;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        font-family: NotoSansMono-ExtraLight, 'Noto Sans Mono';
+        font-variation-settings: 'wght' 200, 'wdth' 100;
+        font-weight: 200;
+      }
+
+      .cls-6 {
+        font-family: NotoSansMono-SemiBold, 'Noto Sans Mono';
+        font-variation-settings: 'wght' 600, 'wdth' 100;
+        font-weight: 600;
+      }
+
+      .cls-4 {
+        fill: #7ac470;
+      }
+    </style>
+  </defs>
+  <g id="logo">
+    <g id="logo--v1">
+      <g>
+        <path class="cls-3" d="M128.05,2.95c-.9-.9-2.14-1.45-3.51-1.45H38.75C18.18,1.5,1.5,18.18,1.5,38.75v85.79c0,1.37.56,2.61,1.45,3.51.9.9,2.14,1.45,3.51,1.45h98.2c13.71,0,24.83-11.12,24.83-24.83V6.47c0-1.37-.56-2.61-1.45-3.51Z"/>
+        <g>
+          <path class="cls-4" d="M124.53,1.5H38.75C18.18,1.5,1.5,18.18,1.5,38.75v85.79c0,1.37.56,2.61,1.45,3.51l21.32-21.32s0,0,0,0c-1.56-1.56-1.56-4.09,0-5.66l24.43-24.43v-33.6l19.63,19.63,5.97,5.97v-17.6l26.77-26.77c1.56-1.56,4.09-1.56,5.66,0,0,0,0,0,0,0l21.32-21.32c-.9-.9-2.14-1.45-3.51-1.45Z"/>
+          <path class="cls-2" d="M128.05,2.95l-21.32,21.32c1.56,1.56,1.56,4.09,0,5.66l-24.43,24.43v33.6l-19.63-19.63-5.97-5.97v17.6l-26.77,26.77c-.78.78-1.8,1.17-2.83,1.17s-2.05-.39-2.83-1.17l-21.32,21.32c.9.9,2.14,1.45,3.51,1.45h98.2c13.71,0,24.83-11.12,24.83-24.83V6.47c0-1.37-.56-2.61-1.45-3.51Z"/>
+        </g>
+      </g>
+      <text class="cls-1" transform="translate(148.72 99.17)"><tspan class="cls-6" x="0" y="0">Smart</tspan><tspan class="cls-5" x="109.96" y="0">Garden</tspan></text>
+    </g>
+  </g>
+</svg>
