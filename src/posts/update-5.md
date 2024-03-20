@@ -89,7 +89,7 @@ I have started creating real design assets too. One of these is the logo for the
 
 </div>
 
-# This Week's Plan
+## This Week's Plan
 
 As mentioned before, I plan on continuing designing this week. My goal is to create the design style guide and content requirements document.
 
@@ -98,7 +98,7 @@ Once these are complete, I will be able to create a high-fidelity prototype of t
 This is a lot to get done in not a lot of time remaining! However, I am confident that I am capable of delivering a quality product on time as long as I move forward decisevly and continualy.
 
 
-## Stay Connected
+# Stay Connected
 
 As the project progresses, I remain committed to delivering a narrative website that demonstrates the power of multimedia web design and development in creating engaging online experiences. I welcome any suggestions, comments, or questions you may have. Your feedback is invaluable as it helps refine the project further.
 
