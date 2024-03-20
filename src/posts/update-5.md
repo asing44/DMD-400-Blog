@@ -1,14 +1,13 @@
 ---
-title: "Project Update 5: Blossoming Ideas"
+title: "Project Update 5: Creating Form"
 date: 2024-02-24T21:47
-thumb: ""
+thumb: "brainstorming-document.png"
 tags: update
 ---
 
-Since the last project update, I have begun 
+# Introduction
 
-
-# Project Timeline
+Since the last project update, I have begun to create design wireframes for the webpage. I am starting to feel a bit of tension with the approaching deadline and have made an effort to contribtue as much time as possible toward this project. I am confident that I can still produce a professional, quality website as a result and am starting to *very much appreciate* the foundation created from previous weeks' efforts.
 
 Here is the project timeline again:
 
@@ -16,63 +15,81 @@ Here is the project timeline again:
     
 2. ✅ **Empathize**<br>Feb. 8th → Feb. 12th
     
-3. 📍 ***Ideation*** <small>Previously content</small><br>Feb. 13th → Feb. 20th<br>
+3. ✅ **Ideation** <small>Previously content</small><br>Feb. 13th → Feb. 20th<br>
     
-4. 🔜 **Content** <small>Previously ideation</small><br>Feb. 21st → Mar. 10th
+4. 📍 ***Content*** <small>Previously ideation</small><br>Feb. 21st → Mar. 30th
     
-5. **Develop**<br>Feb. 29th → Apr. 14th
+5. 📍 ***Develop***<br>Apr. 1st → Apr. 14th
     
 6. **Test and Review**<br>Apr. 15th → Apr. 21st
 
-I am wrapping up the **Ideation** phase as of writing this post and will soon be fusing project research with ideas to produce the beginning stages of content. Below is listed the stages I have remaining in **Ideation**.
+Design and content creation is now in full swing along with iterative rewinds into brainstorming when necessary. I have certainly learned of the iterative nature of design and am starting to appreciate the process and its utility much, much more!
 
 <figure>
 
-![Remaining Ideation tasks](/DMD-400-Blog/assets/img/remaining-ideation-tasks.png)
-    <figcaption><small>Remaining Ideation tasks</small></figcaption>
+![Current brainstorming document](/DMD-400-Blog/assets/img/brainstorming-document.png)
+    <figcaption><small>Current brainstorming document</small></figcaption>
 </figure>
 
-## Brainstorming
+# Designing the Designs!
 
-The week's work has been all about brainstorming. I have mainly been using [mind mapping](https://www.mindmapping.com/). So far, I've completed one mind map for design elements which includes:
-- White space
-- Layout
-- Typography
-- Color scheme(s)
+Here are the design tasks ahead for the remaining time I have left in this track of the project:
+ - Wireframing
+    - Low fidelity
+ - Asset creation
+   - Asset document/content document creation
+ - [Style guide](https://carbondesignsystem.com/guidelines/content/overview/)
+- Wireframing
+    - High fidelity
+ - Storyboarding
+ - [Rive](https://rive.app/) Animations
 
-And another mind map for total functionality of the site which includes:
-- Price calculator estimate
-- <span>Interactivity</span><br><small>↳*needs more definition*</small>
-- Product benefits and value
-- <span>Product signup form</span><br><small>↳*main site objective*</small>
+I have intentionally created this list as a unordered one as to emphasise my previous point about the non-linearity of the design process. I am actively wireframing and planning to move onto the style guide and asset creation, but I am prepared to diverge again into wireframing or/and brainstorming too if needed at any point.
+
+Here is the first version of my site's mobile wireframe:
+
+<figure>
+<div  style="max-width: 400px">
+
+![Mobile wireframe](/DMD-400-Blog/assets/img/mobile-wireframe.png)
+</div>
+    <figcaption><small>Version 1 wireframe for mobile</small></figcaption>
+</figure>
+
+And here is the newest version:
+
 <figure>
 
-![Design elements mind map](/DMD-400-Blog/assets/img/mind-map__design-elements.png)
-    <figcaption><small>Design elements mind map</small></figcaption>
-
+![Mobile wireframe](/DMD-400-Blog/assets/img/mobile-wireframe--v2.png)
+    <figcaption><small>Version 2 wireframe for mobile</small></figcaption>
 </figure>
+
+# Actual Designs!
+
+I have started creating real design assets too. One of these is the logo for the site for which I am still brainstorming and experimenting with. Attached below is the **brainstorming**, **sketching**, and **beginning vectorization** of this asset.
+
+<div style="display: flex; position: relative; flex-direction: row; align-items: baseline; column-gap: 20px">
+<figure style="max-width: 400px">
+
+![Mind map](/DMD-400-Blog/assets/img/logo-mind-mapping.png)
+    <figcaption><small>Mind mapping brainstorm for the logo</small></figcaption>
+</figure>
+
 <figure>
 
-![Funcationalities mind map](/DMD-400-Blog/assets/img/mind-map__functionalities.png)
-    <figcaption><small>Funcationalities mind map</small></figcaption>
-
+![Logo sketches](/DMD-400-Blog/assets/img/logo-sketching.JPG)
+    <figcaption><small>Logo sketching</small></figcaption>
 </figure>
 
-### Remaining Brainstorming
-The remaining brainstorming activities still in progress are:
-- Mood board
-- Sketches
-  - Logo
-  - Graphics
-  - Rapid ideas
+<figure>
 
-### Converging 
-After finishing these separate pieces, a general review of the draft materials will occur. The selection and evaluation of the generated materials will converge ideas back toward a more focused harmony. These passed materials will collect and settle in a deliverable I am simply referring to as the *Ideation Document*.
+![Mobile wireframe](/DMD-400-Blog/assets/img/mobile-wireframe--v2.png)
+    <figcaption><small>Version 2 wireframe for mobile</small></figcaption>
+</figure>
 
-## Project Wows and Woes
-I am feeling a healthy amount of pressure to get moving toward making content for my project. I am eager to start the content creation process. Creating content is always a fun step in any project but I have learned from previous attempts with projects of this scale that it can quickly become unpleasant if the required research and planning bas not been completed. 
+</div>
 
-Knowing this, I wanted to ensure my groudwork research was sound before continuing on with the creation of content. I feel ready to make this step into creating (draft) content and am excited to share this exciting new turn in this project with you all.
+
 
 ## Stay Connected
 
