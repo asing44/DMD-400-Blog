@@ -35,13 +35,13 @@ Wireframes serve as the skeletal framework of the website, allowing me to outlin
 
 I began with low-fidelity wireframes, which are basic layouts that sketch out the essential parts of the website. These wireframes are quick to produce and are instrumental in getting a preliminary sense of the site's structure. They help in mapping out the user journey and ensuring that all necessary components are included without getting bogged down by design details.
 
+![Current brainstorming document](/DMD-400-Blog/assets/img/lofi-wireframes.png)
+*Low-fidelity wireframes*
+
 
 ## High-Fidelity Wireframes: Adding Detail and Clarity
 
 After solidifying the basic structure, I transitioned to high-fidelity wireframes, which provide a more detailed and closer representation of the final design. These wireframes include accurate spacing, precise element placement, and often, a hint of the visual design elements that will be in the final product. This step is crucial for understanding the look and feel of the website and for planning out the user interactions in a more concrete way.
-
-![Current brainstorming document](/DMD-400-Blog/assets/img/lowfi-wireframes.png)
-*Lowfi wireframes*
 
 ## Iterative Process: Refining with Feedback
 
