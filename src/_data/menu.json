@@ -4,6 +4,10 @@
         "url": "/about"
     },
     {
+        "label": "Search",
+        "url": "/search"
+    },
+    {
         "label": "GitHub",
         "url": "https://github.com/asing44",
         "newTab": true
