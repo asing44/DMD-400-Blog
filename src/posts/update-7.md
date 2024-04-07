@@ -1,7 +1,7 @@
 ---
 title: "SmartGarden Project Update 7: Entering the Development Phase"
-date: 2024-04-5T04:25
-thumb: "thumbnail-7.png"
+date: 2024-04-05T04:25
+thumb: "style-guide__gradients.png"
 tags: update
 ---
 
@@ -53,7 +53,3 @@ Our immediate goal is to build out the front-end structure using Tailwind CSS, e
 As SmartGarden evolves, your feedback remains a cornerstone of the progress. I invite you to engage with the project, sharing your insights and suggestions to help refine the direction and execution.
 
 Thank you for your continued support of the SmartGarden project. The journey is as challenging as it is exhilarating, and I look forward to sharing more developments with you in the coming weeks.
-
----
-
-This draft should better align with your SmartGarden Capstone project, reflecting the recent milestones and the transition into the development stage.
