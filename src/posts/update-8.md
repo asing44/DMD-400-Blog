@@ -1,6 +1,6 @@
 ---
 title: "Capstone Project Update 8: Making Significant Progress in Development"
-date: 2024-04-014T04:25
+date: 2024-04-14T04:25
 thumb: "mobile-mockup.png"
 tags: update
 ---
