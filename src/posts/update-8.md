@@ -1,7 +1,7 @@
 ---
 title: "Capstone Project Update 8: Making Significant Progress in Development"
 date: 2024-04-014T04:25
-thumb: "style-guide__gradients.png"
+thumb: "mobile-mockup.png"
 tags: update
 ---
 
@@ -26,7 +26,7 @@ The completion of the high-fidelity prototype and the start of the animation pha
 
 The completion of the high-fidelity prototype has allowed me to refine the user experience and design aesthetics, setting a detailed blueprint for the development phase.
 
-![/DMD-400-Blog/assets/img/hifi-prototype.png](/DMD-400-Blog/assets/img/hifi-prototype.png)
+![Figma prototype](/DMD-400-Blog/assets/img/high-fi-mockup.png)
 
 *High-fidelity prototype*
 
@@ -34,7 +34,7 @@ The completion of the high-fidelity prototype has allowed me to refine the user 
 
 I've also begun implementing animations to enhance interactivity and engagement. These animations are designed to respond to user interactions, adding a layer of sophistication to the user interface.
 
-![/DMD-400-Blog/assets/img/animations-progress.png](/DMD-400-Blog/assets/img/animations-progress.png)
+![/DMD-400-Blog/assets/img/animations-progress.png](/DMD-400-Blog/assets/img/animating-in-rive.png)
 
 *Starting animations*
 
